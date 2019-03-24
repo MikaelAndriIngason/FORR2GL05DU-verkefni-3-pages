@@ -10,5 +10,4 @@ Verkefni 3 er bara simple "round based" leikur þar sem spilarinn spilar þanga�
 [Verkefni 3.zip (148 MB)](https://drive.google.com/open?id=1GHz6xqEnWMhq3lSjrvkTLsZgFXtKuvaB)
 
 ### Vídeó
-<video src="https://drive.google.com/file/d/1Sp7b_IBnTMs8Xxe5h8ln4sE53IoQTj89/preview" width="640" height="480" controls preload></video>
 <iframe src="https://drive.google.com/file/d/1Sp7b_IBnTMs8Xxe5h8ln4sE53IoQTj89/preview" width="640" height="480"></iframe>
